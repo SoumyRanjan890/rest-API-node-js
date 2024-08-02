@@ -1,0 +1,18 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "node js fun",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "soumya ranjan jena",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
